@@ -1,0 +1,9 @@
+01234012340
+
+---------------
+
+0 = Archer
+1 = Swordman
+2 = Spearman
+3 = Rider
+4 = Medic
